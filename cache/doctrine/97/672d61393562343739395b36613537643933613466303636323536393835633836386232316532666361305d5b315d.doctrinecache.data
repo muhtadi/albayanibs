@@ -1,0 +1,48 @@
+1523725534
+a:2:{s:7:"content";s:2678:"<h1>Selamat Datang di Al-Bayan!</h1>
+<h2>Taqwa, Cerdas dan Mandiri..</h2>
+<div class="notices blue">
+<p>SMP Al-Bayan Islamic Boarding School hadir dengan model <em>berasrama</em>, berupaya menjadi mitra masyarakat dan orang tua untuk mendapatkan anak yang taqwa, cerdas dan mandiri. </p>
+</div>
+<h3>Visi</h3>
+<p>TERWUJUDNYA GENERASI UNGGUL DAN BERKARAKTER DALAM IMAN DAN TAQWA (IMTAQ), ILMU PENGETAHUAN DAN TEKNOLOGI (IPTEK), SEHAT SERTA BERPRESTASI</p>
+<h3>Misi</h3>
+<ul>
+<li>Menyelenggarakan lembaga pendidikan formal berbasis Pesantren</li>
+<li>Meningkatkan Kwalitas Sumber Daya Pendidik dan Tenaga Kependidikan</li>
+<li>Menyelenggarakan proses Pendidikan yang baik dan berkwalitas</li>
+<li>Memberikan manfaat bagi masyarakat dan lingkungan sekitar</li>
+</ul>
+<div class="notices blue">
+<p>Dengan mengacu pada Visi dan misi, SMP Al-Bayan Islamic Boarding School menerapkan kurikulum yang terpadu, yaitu:</p>
+</div>
+<ul>
+<li>Kurikulum AI Qur'an dan Hadits,</li>
+</ul>
+<h3>Edit this Page</h3>
+<p>To edit this page, simply navigate to the folder you installed <strong>Grav</strong> into, and then browse to the <code>user/pages/01.home</code> folder and open the <code>default.md</code> file in your <a href="http://learn.getgrav.org/basics/requirements">editor of choice</a>.  You will see the content of this page in <a href="http://learn.getgrav.org/content/markdown">Markdown format</a>.</p>
+<h3>Create a New Page</h3>
+<p>Creating a new page is a simple affair in <strong>Grav</strong>.  Simply follow these simple steps:</p>
+<ol>
+<li>
+<p>Navigate to your pages folder: <code>user/pages/</code> and create a new folder.  In this example, we will use <a href="http://learn.getgrav.org/content/content-pages">explicit default ordering</a> and call the folder <code>03.mypage</code>.</p>
+</li>
+<li>
+<p>Launch your text editor and paste in the following sample code:</p>
+<pre><code>---
+title: My New Page
+---
+# My New Page!
+
+This is the body of **my new page** and I can easily use _Markdown_ syntax here.</code></pre>
+</li>
+<li>
+<p>Save this file in the <code>user/pages/03.mypage/</code> folder as <code>default.md</code>. This will tell <strong>Grav</strong> to render the page using the <strong>default</strong> template.</p>
+</li>
+<li>
+<p>That is it! Reload your browser to see your new page in the menu.</p>
+</li>
+</ol>
+<div class="notices yellow">
+<p>NOTE: The page will automatically show up in the Menu after the "Home" menu item. If you wish to change the name that shows up in the Menu, simple add: <code>menu: My Page</code> between the dashes in the page content. This is called the YAML front matter, and it is where you configure page-specific options.</p>
+</div>";s:12:"content_meta";N;}

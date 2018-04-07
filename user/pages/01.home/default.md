@@ -1,42 +1,29 @@
 ---
 title: Home
-body_classes: title-center title-h1h2
+media_order: 'proposal template-10.jpg'
 ---
 
-# Say Hello to Grav!
-## installation successful...
+# Selamat Datang di Al-Bayan!
+## Taqwa, Cerdas dan Mandiri..
 
-Congratulations! You have installed the **Base Grav Package** that provides a **simple page** and the default **Quark** theme to get you started.
+!!! SMP Al-Bayan Islamic Boarding School hadir dengan model _berasrama_, berupaya menjadi mitra masyarakat dan orang tua untuk mendapatkan anak yang taqwa, cerdas dan mandiri. 
 
-!! If you see a **404 Error** when you click `Typography` in the menu, please refer to the [troubleshooting guide](http://learn.getgrav.org/troubleshooting/page-not-found).
+### Visi
 
-### Find out all about Grav
+TERWUJUDNYA GENERASI UNGGUL DAN BERKARAKTER DALAM IMAN DAN TAQWA (IMTAQ), ILMU PENGETAHUAN DAN TEKNOLOGI (IPTEK), SEHAT SERTA BERPRESTASI
 
-* Learn about **Grav** by checking out our dedicated [Learn Grav](http://learn.getgrav.org) site.
-* Download **plugins**, **themes**, as well as other Grav **skeleton** packages from the [Grav Downloads](http://getgrav.org/downloads) page.
-* Check out our [Grav Development Blog](http://getgrav.org/blog) to find out the latest goings on in the Grav-verse.
 
-!!! If you want a more **full-featured** base install, you should check out [**Skeleton** packages available in the downloads](http://getgrav.org/downloads).
+### Misi
 
-### Edit this Page
+* Menyelenggarakan lembaga pendidikan formal berbasis Pesantren
+* Meningkatkan Kwalitas Sumber Daya Pendidik dan Tenaga Kependidikan
+* Menyelenggarakan proses Pendidikan yang baik dan berkwalitas
+* Memberikan manfaat bagi masyarakat dan lingkungan sekitar
 
-To edit this page, simply navigate to the folder you installed **Grav** into, and then browse to the `user/pages/01.home` folder and open the `default.md` file in your [editor of choice](http://learn.getgrav.org/basics/requirements).  You will see the content of this page in [Markdown format](http://learn.getgrav.org/content/markdown).
+!!! Dengan mengacu pada Visi dan misi, SMP Al-Bayan Islamic Boarding School menerapkan kurikulum yang terpadu, yaitu:
 
-### Create a New Page
+1. Kurikulum AI Qur'an dan Hadits
+2. Kurikulum Ulumuddin / Diniyah : Aqidah, Fiqh, Shiroh, Bahasa Arab
+3. Kurikulum pendidikan nasional (diknas)
 
-Creating a new page is a simple affair in **Grav**.  Simply follow these simple steps:
-
-1. Navigate to your pages folder: `user/pages/` and create a new folder.  In this example, we will use [explicit default ordering](http://learn.getgrav.org/content/content-pages) and call the folder `03.mypage`.
-2. Launch your text editor and paste in the following sample code:
-
-        ---
-        title: My New Page
-        ---
-        # My New Page!
-
-        This is the body of **my new page** and I can easily use _Markdown_ syntax here.
-
-3. Save this file in the `user/pages/03.mypage/` folder as `default.md`. This will tell **Grav** to render the page using the **default** template.
-4. That is it! Reload your browser to see your new page in the menu.
-
-! NOTE: The page will automatically show up in the Menu after the "Home" menu item. If you wish to change the name that shows up in the Menu, simple add: `menu: My Page` between the dashes in the page content. This is called the YAML front matter, and it is where you configure page-specific options.
+![sekolah](proposal%20template-10.jpg)

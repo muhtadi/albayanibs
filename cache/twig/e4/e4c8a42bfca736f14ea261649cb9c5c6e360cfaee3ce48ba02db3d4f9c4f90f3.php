@@ -214,7 +214,7 @@ class __TwigTemplate_cd523993505387909952695736c281184a410840ba7488a540e9c85b54f
         // line 44
         echo ($context["home_url"] ?? null);
         echo "\" class=\"navbar-brand mr-10\">";
-        $this->loadTemplate("@images/grav-logo.svg", "partials/base.html.twig", 44)->display($context);
+        $this->loadTemplate("@images/albayan.svg", "partials/base.html.twig", 44)->display($context);
         echo "</a>
                     </section>
                     <section class=\"navbar-section\">
@@ -400,7 +400,7 @@ class __TwigTemplate_cd523993505387909952695736c281184a410840ba7488a540e9c85b54f
             <section class=\"container {{ grid_size }}\">
                 <nav class=\"navbar\">
                     <section class=\"navbar-section logo\">
-                        <a href=\"{{ home_url }}\" class=\"navbar-brand mr-10\">{% include('@images/grav-logo.svg') %}</a>
+                        <a href=\"{{ home_url }}\" class=\"navbar-brand mr-10\">{% include('@images/albayan.svg') %}</a>
                     </section>
                     <section class=\"navbar-section\">
 
