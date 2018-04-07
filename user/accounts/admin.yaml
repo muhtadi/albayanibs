@@ -1,0 +1,11 @@
+email: muhtadi.irfan@gmail.com
+fullname: 'Muhtadi Irfan'
+title: Administrator
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$.5GAOE4UE67/wNeVSzvTFe4bmAQumsf27fN6LxeAaGUoekStWMboC
